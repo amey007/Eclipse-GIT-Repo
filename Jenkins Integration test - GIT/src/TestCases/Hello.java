@@ -8,6 +8,6 @@ public class Hello {
 		{
         System.out.println("Welcome to Jenkins..."+i);
 	    }
-
+        System.out.println("\nEclipse- GIT integration done");
 	}
 }
